@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<array-average>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "array-average"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<array-loop>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "array-loop"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<array-sort>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "array-sort"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimaryStudent<basic-boolean>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.PrimaryStudent",
+            "projectName": "basic-boolean"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-JoinChar<basic-char-string>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.JoinChar",
+            "projectName": "basic-char-string"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<basic-float>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "basic-float"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SumOfInteger<basic-integer>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.SumOfInteger",
+            "projectName": "basic-integer"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<flow-if>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "flow-if"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<flow-input-output>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "flow-input-output"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<flow-switch>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "flow-switch"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<flow-while>",
+            "request": "launch",
+            "mainClass": "com.itranswarp.learnjava.Main",
+            "projectName": "flow-while"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main<hello>",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "hello"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
